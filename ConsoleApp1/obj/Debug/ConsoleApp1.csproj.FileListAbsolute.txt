@@ -1,0 +1,14 @@
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\SpaUserControl.Domain.dll
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\SpaUserControl.Domain.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\SpaUserControl.Common.dll
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\SpaUserControl.Common.pdb
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml

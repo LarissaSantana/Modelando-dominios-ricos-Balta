@@ -1,0 +1,7 @@
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Domain.dll
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Domain.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.csprojResolveAssemblyReference.cache
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.dll
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Domain\obj\Debug\SpaUserControl.Domain.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Common.dll
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Domain\bin\Debug\SpaUserControl.Common.pdb

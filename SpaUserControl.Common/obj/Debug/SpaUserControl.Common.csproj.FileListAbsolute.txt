@@ -1,0 +1,7 @@
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Common\bin\Debug\SpaUserControl.Common.dll
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Common\bin\Debug\SpaUserControl.Common.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.dll
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.Resources.Errors.resources
+c:\users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.csproj.GenerateResource.Cache
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Common\obj\Debug\SpaUserControl.Common.csprojResolveAssemblyReference.cache

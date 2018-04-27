@@ -1,0 +1,14 @@
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\SpaUserControl.Infraestructure.dll
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\SpaUserControl.Infraestructure.pdb
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\obj\Debug\SpaUserControl.Infraestructure.dll
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\obj\Debug\SpaUserControl.Infraestructure.pdb
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\SpaUserControl.Infraestructure.dll.config
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\EntityFramework.dll
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\EntityFramework.xml
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\obj\Debug\SpaUserControl.Infraestructure.csprojResolveAssemblyReference.cache
+C:\Users\larissa.santana\Documents\Visual Studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\SpaUserControl.Domain.dll
+C:\Users\larissa.santana\Documents\Visual Studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\SpaUserControl.Common.dll
+C:\Users\larissa.santana\Documents\Visual Studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\SpaUserControl.Domain.pdb
+C:\Users\larissa.santana\Documents\Visual Studio 2017\Projects\SpaUserControl\SpaUserControl.Infraestructure\bin\Debug\SpaUserControl.Common.pdb
